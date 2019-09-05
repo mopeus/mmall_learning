@@ -14,7 +14,7 @@ out/
 #eclipse ignore
 .settings/
 .project
-.classpatch
+.classpath
 
 #idea ignore
 .idea/
